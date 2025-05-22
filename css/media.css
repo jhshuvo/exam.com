@@ -1,0 +1,112 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  /* buttone  */
+  .btn-primary {
+    flex-wrap: wrap;
+    padding: 6px 14px !important;
+}
+      /* banner start */
+    .glow-text {
+    font-size: 40px;
+
+}
+/* sopnsor */
+.smooth-ticker {
+    padding: 26px 0;
+
+}
+.ticker-content img {
+    height: 30px;
+
+}
+.card_titel h1 {
+    font-size: 34px;
+}
+.card {
+    padding: 60px 0;
+   
+}
+    
+  }
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    /* buttone  */
+  .btn-primary {
+    flex-wrap: wrap;
+    padding: 6px 14px !important;
+}
+      /* banner start */
+    .glow-text {
+    font-size: 50px;
+}
+/* sopnsor */
+.smooth-ticker {
+    padding: 26px 0;
+
+}
+.ticker-content img {
+    height: 30px;
+
+}
+/* CArd start */
+.serv_h2 {
+    padding-top: 22px;
+    font-size: 22px;
+}
+.card_titel h1 {
+    font-size: 30px;
+}
+.card {
+    padding: 70px 0;
+   
+}
+  
+
+    
+ }
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* banner start */
+    .glow-text {
+    font-size: 60px;
+}
+
+/* sopnsor */
+.smooth-ticker {
+    padding: 26px 0;
+
+}
+.ticker-content img {
+    height: 30px;
+
+}
+/* CArd start */
+.serv_h2 {
+    padding-top: 22px;
+    font-size: 22px;
+}
+.card {
+    padding: 70px 0;
+   
+}
+ }
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    
+ }
+
+ /* Extra large devices (large desktops, 1200px and up) */
+@media (mi-width: 1200px) and (max-width: 1399.98px) { 
+    
+ }
+
+/* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+    .hero_content {
+    padding: 280px 0 220px;
+}
+    
+ }
